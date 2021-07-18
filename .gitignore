@@ -1,0 +1,13 @@
+# Gwint workspace git ignore files and dirs
+
+# vscode config
+/.vscode
+
+# prettier config
+.prettierrc.json
+
+# package-lock.json
+package-lock.json
+
+# node_modules dir
+/node_modules
