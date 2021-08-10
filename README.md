@@ -1,8 +1,10 @@
-# Gwint
+# Archived!
+
+## Gwint
 
 A CLI to generate simple website template
 
-## Instalation
+### Instalation
 
 Download or fork the repo
 
@@ -22,11 +24,11 @@ And
 npm install -g
 ```
 
-## Usage
+### Usage
 
 Use command `gwint` in your CMD
 
-## Showcase
+### Showcase
 
 ![Gwint](./img/Gwint.png)
 
@@ -36,6 +38,6 @@ Use command `gwint` in your CMD
 
 ![Js](./img/JS.png)
 
-## License
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
